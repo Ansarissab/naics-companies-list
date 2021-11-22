@@ -1,0 +1,2 @@
+class Naic < ApplicationRecord
+end
